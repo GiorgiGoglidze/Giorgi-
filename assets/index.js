@@ -1,24 +1,14 @@
-
-console.log("roger");
-console.log("I like roger federers playng style");
-console.log ("I love khinkali");
-
-
-//This is a coments
-
-/* This
-is 
-a
-multiline 
-comment
-*/
-
-
-let firstname="bro"
-console.log("hello", firstname)
+var strSum= prompt ('hfhfldsjfdsjg',1000);
+var strPercent = prompt ('gdgdkjdsk',10);
+var sum = parseInt (strSum);
+var percent = parseInt (strPercent);
 
 
 
+sum=sum+sum*percent/100;
+
+alert ("gdasgdflajsaklfsadjsd"+2*sum )
 
 
-document.getElementById("p1").innerHTML="hello"+firstname;
+var people = [ "tom", "ann", "sam"]
+console.log(people);
