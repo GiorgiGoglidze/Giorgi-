@@ -35,6 +35,10 @@
 // document.write(y+ "</br>" +z);
 
 
+
+function.display
+
+
 // function display (testmessage,x) {
 //     var message = testmessage();
 //      document.write(message);
